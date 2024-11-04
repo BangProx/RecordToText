@@ -2,6 +2,8 @@
 openai whisper 기반 TTS 서비스
 고통 -> 행복 ... 이 아니라 음성 -> 노트
 다만.. 시간이 조.금 글린다.
+### 실행 방법
+streamlit run main.py
 
 ### 버그 Fix
 1. 기존에 Text가 너무 긴 경우 번역이 수행되지 않는 오류 발생
